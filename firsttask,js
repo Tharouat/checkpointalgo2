@@ -1,4 +1,6 @@
-FUNCTION dot_pro (v1 , v2 : ARRAY_OF_FLOAT [10]) : INTEGER
+FUNCTION dot_pro 
+
+(v1 , v2 : ARRAY_OF_FLOAT [10]) : INTEGER
 VAR
     i , dot : INTEGER
 BEGIN
